@@ -1,0 +1,1 @@
+create database Hospital_Analytics_DB;
