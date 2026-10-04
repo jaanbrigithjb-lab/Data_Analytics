@@ -1,0 +1,13 @@
+University_name=input("Enter University Name: ")
+student_name=input("Enter Student Name: ")
+student_id=int(input("Enter Student ID: "))
+Age=int(input("Enter Age: "))
+attendance_percentage=float(input("Enter Attendance Percentage: "))
+status=input("Enter Status: ")
+
+print(University_name,type(University_name))
+print(student_name,type(student_name))
+print(student_id,type(student_id))
+print(Age,type(Age))
+print(attendance_percentage,type(attendance_percentage))
+print(status,type(status))
